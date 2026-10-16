@@ -2,3 +2,8 @@ hello world
 this is a simple text
 file 
 created with nano text editor
+Shahrukh
+ALwin
+Pradeep
+Pranav
+Venkat
